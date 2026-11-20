@@ -3,6 +3,11 @@
 # dependencies
 node_modules/
 
+# EAS build configuration and generated files
+.expo/
+dist/
+build/
+
 # Expo
 .expo/
 dist/
